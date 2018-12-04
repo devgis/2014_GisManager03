@@ -1,0 +1,29 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\GisManager\GisManager\bin\Debug\GisManager.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\GisManager\GisManager\bin\Debug\GisManager.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\GisManager\GisManager\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\GisManager\GisManager\obj\Debug\GisManager.MainForm.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\GisManager\GisManager\obj\Debug\GisManager.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\GisManager\GisManager\obj\Debug\GisManager.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\GisManager\GisManager\obj\Debug\GisManager.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\GisManager\GisManager\obj\Debug\GisManager.pdb
+C:\ArcgisManager\GisManager\GisManager\bin\Debug\GisManager.exe
+C:\ArcgisManager\GisManager\GisManager\bin\Debug\GisManager.pdb
+C:\ArcgisManager\GisManager\GisManager\obj\Debug\ResolveAssemblyReference.cache
+C:\ArcgisManager\GisManager\GisManager\obj\Debug\GisManager.MainForm.resources
+C:\ArcgisManager\GisManager\GisManager\obj\Debug\GisManager.Properties.Resources.resources
+C:\ArcgisManager\GisManager\GisManager\obj\Debug\GisManager.csproj.GenerateResource.Cache
+C:\ArcgisManager\GisManager\GisManager\obj\Debug\GisManager.exe
+C:\ArcgisManager\GisManager\GisManager\obj\Debug\GisManager.pdb
+C:\ArcgisManager\GisManager\GisManager\obj\Debug\GisManager.AddEquip.resources
+C:\ArcgisManager\GisManager\GisManager\obj\Debug\GisManager.AddPersion.resources
+C:\ArcgisManager\GisManager\GisManager\obj\Debug\GisManager.SearchForm.resources
+C:\ArcgisManager\GisManager\GisManager\obj\Debug\GisManager.LoginForm.resources
+C:\tubao\GisManager\obj\Debug\GisManager.exe
+C:\tubao\GisManager\obj\Debug\GisManager.pdb
+C:\tubao\GisManager\obj\Debug\ResolveAssemblyReference.cache
+C:\tubao\GisManager\obj\Debug\GisManager.MainForm.resources
+C:\tubao\GisManager\obj\Debug\GisManager.Properties.Resources.resources
+C:\tubao\GisManager\obj\Debug\GisManager.csproj.GenerateResource.Cache
+C:\tubao\GisManager\bin\Debug\GisManager.exe
+C:\tubao\GisManager\bin\Debug\GisManager.pdb
+C:\tubao\GisManager\obj\Debug\GisManager.SelectDistance.resources
